@@ -1,0 +1,124 @@
+# 26383.725 ns:       
+# 26383.725 ns:       
+# 26383.725 ns:       --------------
+# 26383.725 ns:       -- Write SA --
+# 26383.725 ns:       --------------
+# 28080.525 ns:         Wrote SA: 0x00000001
+# 28459.275 ns:         Wrote SA: 0x00000002
+# 28838.025 ns:         Wrote SA: 0x00000003
+# 29216.775 ns:         Wrote SA: 0x00000004
+# 29595.525 ns:         Wrote SA: 0x00000005
+# 29974.275 ns:         Wrote SA: 0x00000006
+# 30353.025 ns:         Wrote SA: 0x00000007
+# 30746.925 ns:         Wrote SA: 0x00000008
+# 31125.675 ns:         Wrote SA: 0x00000009
+# 31504.425 ns:         Wrote SA: 0x0000000A
+# 31883.175 ns:         Wrote SA: 0x0000000B
+# 32261.925 ns:         Wrote SA: 0x0000000C
+# 32640.675 ns:         Wrote SA: 0x0000000D
+# 33019.425 ns:         Wrote SA: 0x0000000E
+# 33398.175 ns:         Wrote SA: 0x0000000F
+# 33807.225 ns:         Wrote SA: 0x00000010
+# 34185.975 ns:         Wrote SA: 0x00000011
+# 34564.725 ns:         Wrote SA: 0x00000012
+# 34943.475 ns:         Wrote SA: 0x00000013
+# 35322.225 ns:         Wrote SA: 0x00000014            
+# 35700.975 ns:         Wrote SA: 0x00000015            
+# 36079.725 ns:         Wrote SA: 0x00000016            
+# 36458.475 ns:         Wrote SA: 0x00000017            
+# 36837.225 ns:         Wrote SA: 0x00000018            
+# 37215.975 ns:         Wrote SA: 0x00000019            
+# 37594.725 ns:         Wrote SA: 0x0000001A            
+# 37973.475 ns:         Wrote SA: 0x0000001B            
+# 38352.225 ns:         Wrote SA: 0x0000001C            
+# 38746.125 ns:         Wrote SA: 0x0000001D            
+# 39124.875 ns:         Wrote SA: 0x0000001E            
+# 39503.625 ns:         Wrote SA: 0x0000001F            
+# 39882.375 ns:         Wrote SA: 0x00000020            
+# 40261.125 ns:         Wrote SA: 0x00000021            
+# 40639.875 ns:         Wrote SA: 0x00000022            
+# 41018.625 ns:         Wrote SA: 0x00000023            
+# 41397.375 ns:         Wrote SA: 0x00000024
+# 41776.125 ns:         Wrote SA: 0x00000025
+# 42185.175 ns:         Wrote SA: 0x00000026
+# 42563.925 ns:         Wrote SA: 0x00000027
+# 42942.675 ns:         Wrote SA: 0x00000028
+# 42942.675 ns:       
+# 42942.675 ns:       
+# 42942.675 ns:       --------------
+# 42942.675 ns:       -- Write SB --
+# 42942.675 ns:       --------------
+# 42942.675 ns:       
+# 43336.575 ns:         Wrote SB: 0x80000000
+# 43715.325 ns:         Wrote SB: 0xC0000000
+# 44094.075 ns:         Wrote SB: 0xE0000000
+# 44472.825 ns:         Wrote SB: 0xF0000000
+# 44851.575 ns:         Wrote SB: 0xF8000000
+# 45230.325 ns:         Wrote SB: 0xFC000000
+# 45609.075 ns:         Wrote SB: 0xFE000000
+# 45987.825 ns:         Wrote SB: 0xFF000000
+# 46381.725 ns:         Wrote SB: 0xFF800000
+# 46760.475 ns:         Wrote SB: 0xFFC00000
+# 47139.225 ns:         Wrote SB: 0xFFE00000
+# 47517.975 ns:         Wrote SB: 0xFFF00000
+# 47896.725 ns:         Wrote SB: 0xFFF80000
+# 48275.475 ns:         Wrote SB: 0xFFFC0000
+# 48654.225 ns:         Wrote SB: 0xFFFE0000
+# 49032.975 ns:         Wrote SB: 0xFFFF0000
+# 49411.725 ns:         Wrote SB: 0xFFFF8000
+# 49790.475 ns:         Wrote SB: 0xFFFFC000
+# 50169.225 ns:         Wrote SB: 0xFFFFE000
+# 50547.975 ns:         Wrote SB: 0xFFFFF000
+# 50926.725 ns:         Wrote SB: 0xFFFFF800
+# 51305.475 ns:         Wrote SB: 0xFFFFFC00
+# 51684.225 ns:         Wrote SB: 0xFFFFFE00
+# 52062.975 ns:         Wrote SB: 0xFFFFFF00
+# 52441.725 ns:         Wrote SB: 0xFFFFFF80
+# 52835.625 ns:         Wrote SB: 0xFFFFFFC0
+# 53214.375 ns:         Wrote SB: 0xFFFFFFE0
+# 53593.125 ns:         Wrote SB: 0xFFFFFFF0
+# 53971.875 ns:         Wrote SB: 0xFFFFFFF8
+# 54350.625 ns:         Wrote SB: 0xFFFFFFFC
+# 54729.375 ns:         Wrote SB: 0xFFFFFFFE
+# 55108.125 ns:         Wrote SB: 0xFFFFFFFF
+# 55108.125 ns:       
+# 55108.125 ns:       
+# 55108.125 ns:       ----------
+# 55108.125 ns:       -- Read --
+# 55108.125 ns:       ----------
+# 55108.125 ns:       
+# 56017.125 ns:         Read result: 0x00000404
+# 56926.125 ns:         Read result: 0x00000020
+# 57835.125 ns:         Read result: 0x00000403
+# 58744.125 ns:         Read result: 0x00000500
+# 59668.275 ns:         Read result: 0x00000403
+# 60577.275 ns:         Read result: 0x00000060
+# 61486.275 ns:         Read result: 0x00000403
+# 62395.275 ns:         Read result: 0x00000040
+# 63304.275 ns:         Read result: 0x00000403
+# 64213.275 ns:         Read result: 0x000000A0
+# 65122.275 ns:         Read result: 0x00000402
+# 66031.275 ns:         Read result: 0x00000080
+# 66940.275 ns:         Read result: 0x00000402
+# 67864.425 ns:         Read result: 0x000000E0
+# 68788.575 ns:         Read result: 0x00000402
+# 69712.725 ns:         Read result: 0x000000C0
+# 70652.025 ns:         Read result: 0x00000405
+# 71561.025 ns:         Read result: 0x00000120
+# 72470.025 ns:         Read result: 0x00000401
+# 73379.025 ns:         Read result: 0x00000100
+# 74288.025 ns:         Read result: 0x00000805
+# 75212.175 ns:         Read result: 0x00000020
+# 76121.175 ns:         Read result: 0x00000804
+# 77030.175 ns:         Read result: 0x00000500
+# 77939.175 ns:         Read result: 0x00000804
+# 78863.325 ns:         Read result: 0x00000060
+# 79802.625 ns:         Read result: 0x00000804
+
+
+
+Results (64 Bit)
+(6:0) = Hamming distance
+(9:0) = Resolved
+(36:10) = Index Signature B
+(63:37) = Index Signature A
